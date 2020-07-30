@@ -1,0 +1,146 @@
+
+blingbling.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biling_0
+  rotate: true
+  xy: 54, 24
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+biling_1
+  rotate: false
+  xy: 54, 63
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+biling_10
+  rotate: true
+  xy: 105, 29
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+biling_11
+  rotate: false
+  xy: 105, 63
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+biling_12
+  rotate: false
+  xy: 192, 45
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+biling_13
+  rotate: true
+  xy: 149, 39
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+biling_14
+  rotate: true
+  xy: 238, 112
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+biling_15
+  rotate: false
+  xy: 2, 52
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+biling_16
+  rotate: false
+  xy: 213, 18
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+biling_17
+  rotate: true
+  xy: 182, 6
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+biling_18
+  rotate: false
+  xy: 227, 54
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+biling_19
+  rotate: false
+  xy: 39, 36
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+biling_2
+  rotate: false
+  xy: 238, 92
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+biling_3
+  rotate: false
+  xy: 2, 2
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+biling_4
+  rotate: true
+  xy: 227, 38
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+biling_5
+  rotate: false
+  xy: 149, 73
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+biling_6
+  rotate: false
+  xy: 192, 79
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+biling_7
+  rotate: true
+  xy: 105, 13
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+biling_8
+  rotate: false
+  xy: 147, 5
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+biling_9
+  rotate: true
+  xy: 125, 13
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
